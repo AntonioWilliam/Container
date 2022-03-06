@@ -1,0 +1,22 @@
+538 - Containers Fundamentals
+
+Aula 8.1 - Introdução
+Aula 8.2 - Volumes
+Aula 8.3 - Expondo Container
+Aula 8.4 - Case versão conflitante
+Aula 8.5 - Volumes
+Aula 8.6 - Sobre imagens
+Aula 8.7 - Testando aplicação
+Aula 8.8 - Criando a imagem
+Aula 8.9 - Case na minha máquina funciona
+Aula 8.10 - Enviando imagem
+Aula 8.11 - Docker Compose YAML
+Aula 8.12 - Docker Compose
+Aula 8.13 - Case IAC
+Aula 8.14 - Final
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 08
+>

@@ -1,0 +1,22 @@
+538 - Containers Fundamentals
+
+Aula 7.1 - Introdução
+Aula 7.2 - Preparando ambiente
+Aula 7.3 - Sobre o terminal
+Aula 7.4 - Testando o Docker
+Aula 7.5 - Primeiro Container
+Aula 7.6 - Listando Containers
+Aula 7.7 - Primeira aplicação
+Aula 7.8 - Interagindo
+Aula 7.9 - Case Container avulso
+Aula 7.10 - Imagens e tags
+Aula 7.11 - Case Trafego
+Aula 7.12 - Imagens base
+Aula 7.13 - Case Imagens base
+Aula 7.14 - Final
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 07
+>

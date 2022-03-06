@@ -1,0 +1,13 @@
+538 - Containers Fundamentals
+
+Aula 4.1 - Introdução
+Aula 4.2 - Monolitica
+Aula 4.3 - SOA
+Aula 4.4 - Microsservicos
+Aula 4.5 - Final
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 04
+>

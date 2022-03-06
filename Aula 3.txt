@@ -1,0 +1,17 @@
+538 - Containers Fundamentals
+
+Aula 3.1 - Introdução
+Aula 3.2 - Mercado de trabalho
+Aula 3.3 - Padrão
+Aula 3.4 - Modelo Bimodal
+Aula 3.5 - Microsservicos
+Aula 3.6 - SLA / SLO
+Aula 3.7 - Números
+Aula 3.8 - Orquestradores
+Aula 3.9 - Final
+
+Revisão
+>
+
+Teste de Conhecimento - Aula 03
+>
