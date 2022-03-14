@@ -6,7 +6,15 @@ Aula 6.3 - Como funciona?
 Aula 6.4 - Final
 
 Revisão
->
+
+Os processos dentro de um contêiner estão isolados em seu próprio "namespace". É possível visualisá-los da máquina hospedeira, mas não o contrário.
+
+Por padrão a rede em que um contêiner do Docker estáé isolada da rede do hospedeiro.
+
+A camada superior do sistema de arquivos que cada contêiner possui quando é criado chama-se: writable layer.
+
+Se já era possível criar contêineres na época em que o Docker surgiu, o que o tornava tão especial era a facilidade, não somente em criar contêineres, mas sim em compartilhar e transferir imagens.
 
 Teste de Conhecimento - Aula 06
->
+
+10,00 de um máximo de 10,00(100%)
