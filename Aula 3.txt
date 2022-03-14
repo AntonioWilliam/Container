@@ -11,7 +11,21 @@ Aula 3.8 - Orquestradores
 Aula 3.9 - Final
 
 Revisão
->
+
+Os conceitos aprendidos sobre contêineres poderão ser aplicados em outras ferramentas semelhantes.
+
+A utilização de contêineres tem crescido nos últimos anos.
+
+Em comparação com máquinas virtuais, os contêineres reduzem o custo de propriedade e aumentam o retorno do investimento. A infraestrutura de máquinas virtuais necessita de mais recursos sobressalentes para garantir a movimentação e escalabilidade das máquinas. A sobra de hardware sobressalente tem um custo, e este custo precisa, e é, repassado ao cliente final.
+
+Três orquestradores citados no curso: kubernetes, swarm e nomad.
+
+Uma das grandes vantagens na adoção dos contêineres é a padronização criada pela "Open Container Initiative" que garante compatibilidade entre diferentes ferramentas, evitando que fiquemos presos a um único fornecedor.
+
+Os contêineres estão fortemente ligados a um tipo de arquitetura conhecida como microsserviços.
+
+Um orquestrador, além de outras coisas, gerencia e monitora os contêineres, movendo-os para outras máquinas se necessário.
 
 Teste de Conhecimento - Aula 03
->
+
+10,00 de um máximo de 10,00(100%)
