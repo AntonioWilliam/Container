@@ -16,7 +16,51 @@ Aula 7.13 - Case Imagens base
 Aula 7.14 - Final
 
 Revisão
->
+
+O comando docker container rm Remove um contêiner parado.
+
+Toda a imagem possui uma tag, se não especificada o docker assumi que a tag é "latest".
+
+Caso a imagem não exista em nossa máquina o Docker baixará a imagem automaticamente.
+
+O comando para enviar o contêiner para "background" é: docker container run --detach nginx
+
+Para acompanhar o curso, precisaremos de três coisas: conexão com a internet, uma conta do Docker Hub e um navegador.
+
+Para interagir com um contêiner podemos utilizar seu nome ou seu ID.
+
+Para listar todos os contêineres, inclusive os parados, precisamos utilizar o parâmetro: --all
+
+Para obter mais informações a respeito de um determinado contêiner podemos utilizar o comando: docker container inspect
+
+Comando para baixar uma imagem chamada "postgres" baseada em "alpine":
+
+docker image pull postgres:alpine
+
+Apesar do comando docker container exec executar um comando dentro de um contêiner com os parâmetros -ti também é possível entrar no contêiner' através de um shell.
+
+O melhor lugar para obter uma documentação a respeito de alguma imagem é a própria documentação fornecida no Docker Hub.
+
+A máscara padrão da rede interna do Docker é: 172.17.0.0/16.
+
+Durante o curso, apenas a forma mais longa dos comandos é mencionada.
+Ex: docker run hello-world e docker container run hello-world
+
+Tentamos utilizar o comando docker image rm httpd mas não funcionou, porém a imagem existe. Qual a causa provável?
+Resposta: Existe um contêiner baseado na imagem que precisa ser removido
+
+Para listar as imagens podemos utilizar os seguintes dois comandos:
+docker image ls e docker images
+
+Comando para listar os contêineres: docker container ls
+
+O binário utilizado para interagir com o Docker é o docker.
+
+Um contêiner foi criado com o seguinte comando:
+docker container run --name fedorinha fedora
+
+Comando utilizado para parar um contêiner: docker container stop nomedocontainer
 
 Teste de Conhecimento - Aula 07
->
+
+10,00 de um máximo de 10,00(100%)
