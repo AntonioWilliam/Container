@@ -7,7 +7,15 @@ Aula 4.4 - Microsservicos
 Aula 4.5 - Final
 
 Revisão
->
+
+Um dos problemas do SOA era o EBS (Enterprise Service Bus) que representava um SPOF (Single Point of Failure).
+
+O grande problema de aplicações monolíticas está na necessidade de reprovisionar a aplicação inteira na menor das alterações.
+
+Podemos dizer que os microsserviços são uma implementação específica do SOA, em que o EBS foi removido e as partes conversam entre si através de chamadas HTTP.
+
+Uma solução para quebrar a aplicação monolítica em pedaços menores foi a SOA, que apareceu nos anos 2000.
 
 Teste de Conhecimento - Aula 04
->
+
+10,00 de um máximo de 10,00(100%)
