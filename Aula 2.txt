@@ -12,7 +12,30 @@ Aula 2.9 - Por que Container?
 Aula 2.10 - Final
 
 Revisão
->
+
+As imagens são baseadas em camadas.
+
+Duas diferenças entre contêineres e máquinas virtuais:
+
+- O contêiner quase sempre é menor.
+- O contêiner inicia mais rápido pois não precisa dar a partida (bootstrap) no sistema operacional.
+
+A primeira tecnologia desenvolvida, citada no curso, relacionada ao isolamento presente nos contêinere é:
+
+- chroot
+
+Selecione três definições que representam o que é um contêiner:
+
+- Uma aplicação autocontida, que funciona, de certa forma, isolada do sistema operacional.
+- Tecnologias que nos permitem empacotar e isolar aplicações com seus ambientes de execução completos, facilitando sua movimentação.
+- Pacotes que providenciam o ambiente de execução completo. Sempre rodarão da mesma forma, independente do ambiente hospedeiro.
+
+As três principais tecnologias presentes nos contêineres são: namespaces, cgroups e union mounting.
+
+São as "imagens" que facilitam a movimentação dos contêineres, e sua imutabilidade é garantida pois seu acesso é "somente leitura".
+
+Os contêineres não vieram para substituir as máquinas virtuais. Essa afirmação é:
 
 Teste de Conhecimento - Aula 02
->
+
+10,00 de um máximo de 10,00(100%)

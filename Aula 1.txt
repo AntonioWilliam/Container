@@ -4,7 +4,18 @@ Aula 1.1 - Introdução
 Aula 1.2 - Muitas Tecnologias
 
 Revisão
->
+
+Duas ferramentas que além do Docker também ajudam a gerenciar contêineres:
+
+- LXD
+- podman
+
+Os conceitos aprendidos sobre contêineres poderão ser aplicados em outras ferramentas semelhantes.
+
+Para receber o certificado, é preciso responder a todos os questionários.
+
+A parte prática do curso terá como foco a utilização do docker.
 
 Teste de Conhecimento - Aula 01
->
+
+10,00 de um máximo de 10,00(100%)
