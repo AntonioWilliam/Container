@@ -7,7 +7,13 @@ Aula 5.4 - DBA
 Aula 5.5 - Final
 
 Revisão
->
+
+O desenvolvedor deve ter conhecimento em contêineres pois não há ninguém melhor para criar as imagens do que aquele que desenvolveu a aplicação e conhece suas dependências.
+
+O administrador de sistemas deve ter conhecimento em contêineres pois será responsável pelo orquestrador ou as máquinas em que os contêineres estão.
+
+O administrador de bancos de dados precisa ter conhecimento em contêineres pois nos últimos anos muitos projetos para levar os bancos para os orquestradores surgiram e estão amadurecendo.
 
 Teste de Conhecimento - Aula 05
->
+
+10,00 de um máximo de 10,00(100%)
